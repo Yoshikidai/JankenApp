@@ -1,0 +1,2 @@
+rootProject.name='MyJankenApp'
+include ':app'
