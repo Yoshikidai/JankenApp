@@ -4,8 +4,8 @@
     <string name="jannkenn">ジャン・・ケン・・</string>
     <string name="pon">ポン！！</string>
 
-    <string name="win">勝利</string>
-    <string name="lose">敗北</string>
+    <string name="win">勝ち</string>
+    <string name="lose">敗け</string>
     <string name="draw">仕切り直し</string>
 
 </resources>
